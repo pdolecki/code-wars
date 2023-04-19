@@ -40,3 +40,9 @@ The challenges that I have completed so far are available at:
 <a href="https://github.com/pdolecki/code-wars/blob/main/8kyu/price-of-mangos.ts" target="_blank">
 <img src="https://img.shields.io/badge/Price of mangos-fff" />
 </a>
+<a href="https://github.com/pdolecki/code-wars/blob/main/8kyu/type-of-sum.ts" target="_blank">
+<img src="https://img.shields.io/badge/Type of sum-fff" />
+</a>
+<a href="https://github.com/pdolecki/code-wars/blob/main/8kyu/sum-of-differences-in-array.ts" target="_blank">
+<img src="https://img.shields.io/badge/Sum of differences in array-fff" />
+</a>
