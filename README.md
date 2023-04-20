@@ -46,3 +46,7 @@ The challenges that I have completed so far are available at:
 <a href="https://github.com/pdolecki/code-wars/blob/main/8kyu/sum-of-differences-in-array.ts" target="_blank">
 <img src="https://img.shields.io/badge/Sum of differences in array-fff" />
 </a>
+
+<!-- 7kyu -->
+
+<img src="https://img.shields.io/badge/SOLUTIONS-7kyu-333" /><br>
