@@ -49,4 +49,31 @@ The challenges that I have completed so far are available at:
 
 <!-- 7kyu -->
 
-<img src="https://img.shields.io/badge/SOLUTIONS-7kyu-333" /><br>
+<img src="https://img.shields.io/badge/SOLUTIONS-7kyu-fff" /><br>
+<a href="https://github.com/pdolecki/code-wars/blob/main/7kyu/the-@-operator.ts" target="_blank">
+<img src="https://img.shields.io/badge/The @ operator-fff" />
+</a>
+
+<!-- 6kuy -->
+
+<img src="https://img.shields.io/badge/SOLUTIONS-6kuy-ecb613" /><br>
+
+<!-- 5kyu -->
+
+<img src="https://img.shields.io/badge/SOLUTIONS-5kyu-ecb613" /><br>
+
+<!-- 4kyu -->
+
+<img src="https://img.shields.io/badge/SOLUTIONS-4kyu-1f87e7" /><br>
+
+<!-- 3kyu -->
+
+<img src="https://img.shields.io/badge/SOLUTIONS-3kyu-1f87e7" /><br>
+
+<!-- 2kyu -->
+
+<img src="https://img.shields.io/badge/SOLUTIONS-2kyu-866cc7" /><br>
+
+<!-- 1kyu -->
+
+<img src="https://img.shields.io/badge/SOLUTIONS-1kyu-866cc7" /><br>
