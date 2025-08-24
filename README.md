@@ -22,7 +22,7 @@ I hope you find these solutions useful and educational. Feel free to use them as
 
 ## Challenges
 
-(each .ts file has challenge and solution)
+(each .js or .ts file has challenge and solution)
 
 The challenges that I have completed so far are available at:
 
@@ -57,6 +57,9 @@ The challenges that I have completed so far are available at:
 <!-- 6kuy -->
 
 <img src="https://img.shields.io/badge/SOLUTIONS-6kuy-ecb613" /><br>
+<a href="https://github.com/pdolecki/code-wars/blob/main/6kyu/array-helpers.js" target="_blank">
+<img src="https://img.shields.io/badge/Array helpers-ecb613" />
+</a>
 
 <!-- 5kyu -->
 
